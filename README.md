@@ -2,7 +2,7 @@
 
 This repository contains the implementation of Adaptive Feedback Selection (AFS), a framework for learning a reward function from multiple forms of human feedback to help an agent avoid undesirable states. 
 
-The work was published in [Frontier in Robotics and AI (2026).]([url]([https://yashwanthi.xyz/adaptive-feedback-selection/static/papers/Adaptive_Querying_for_Reward_Learning_from_Human_Feedback.pdf)](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1734564/full))
+The work was published in [Frontiers in Robotics and AI (2026)](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1734564/full).
 
 ## Repository Structure
 
